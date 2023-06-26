@@ -31,6 +31,9 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 I used data from February 2022 through January 2023 for my analysis.
 The data has been made available by Lyft Bikes and Scooters, LLC with [license](https://ride.divvybikes.com/data-license-agreement).
 
+## Data Visualization
+![Alt text](https://github.com/tadpole1997/capstone_casestudy/blob/main/average_duration_daily.png)
+
 ## Conclusion
 Based on my analysis members on average ride cyclistic bikes at a steady rate throughout the week. However, when it comes to casual riders there is increased activity on the weekends, and during summer months. 
 
