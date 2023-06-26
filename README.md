@@ -33,6 +33,7 @@ The data has been made available by Lyft Bikes and Scooters, LLC with [license](
 
 ## Data Visualization
 ![Alt text](https://github.com/tadpole1997/capstone_casestudy/blob/main/average_duration_daily.png)
+![Alt text](https://github.com/tadpole1997/capstone_casestudy/blob/main/rides_by_type.png)
 
 ## Conclusion
 Based on my analysis members on average ride cyclistic bikes at a steady rate throughout the week. However, when it comes to casual riders there is increased activity on the weekends, and during summer months. 
