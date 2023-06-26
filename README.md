@@ -25,7 +25,8 @@ Cyclistic’s ﬁnance analysts have concluded that annual members are much more
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders diﬀer, why casual riders would buy a membership, and how digital media could aﬀect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
 ## Business Task
-1. How do annual members and casual riders use Cyclistic bikes differently?
+1. Identify how annual members and casual riders use Cyclistic bikes differently?
+2. How can Cyclistic covert casual riders to memebers.
 
 ## Data Source
 I used data from February 2022 through January 2023 for my analysis.
